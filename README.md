@@ -1,2 +1,0 @@
-# fish_predict
-基于PaddleHub实现常见鱼类分类及微信小程序部署
